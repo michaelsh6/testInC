@@ -340,3 +340,6 @@ ASALocalRun/
 healthchecksdb
 /doxygen/man/man3
 /doxygen/html
+/test/doxygen/html
+/test/doxygen/man/man3
+/test/doxygen/‏‏doxygen - עותק.config
